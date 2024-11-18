@@ -8,8 +8,7 @@ OpenCV 와 MediaPipe를 사용하여 실시간 얼굴 인식 시스템을 사용
 
 프로젝트 전체 과정
 ----
-![image](https://github.com/user-attachments/assets/12e0dd75-1082-49c2-aade-1c7be0fe1326)
-
+![image](https://github.com/user-attachments/assets/6aa3465f-1d05-4112-be60-a7d3a9cb9eb1)
 
 주요 기능
 ---
