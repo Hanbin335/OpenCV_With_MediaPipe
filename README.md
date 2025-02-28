@@ -1,6 +1,7 @@
  OpenCV_With_MediaPipe
  ---
-![스크린샷 2024-11-18 224640](https://github.com/user-attachments/assets/08884487-7cc7-49d1-b118-aab3e6098da9)
+![image](https://github.com/user-attachments/assets/be61d4ea-a545-4684-ac39-3c70837b3ea1)
+
 
 프로젝트 소개
 ---
